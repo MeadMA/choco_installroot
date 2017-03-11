@@ -1,0 +1,21 @@
+﻿<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>installroot</id>
+    <version>5.0.1</version>
+    <title>DoD InstallRoot</title>
+    <authors>Defense Information Systems Agency</authors>
+    <owners>Defense Information Systems Agency</owners>
+    <licenseUrl>https://www.law.cornell.edu/uscode/text/17/105</licenseUrl>
+    <projectUrl>http://iase.disa.mil/pki-pke/Pages/tools.aspx</projectUrl>
+    <iconUrl>https://raw.githubusercontent.com/MeadMA/choco_installroot/35c62c25/InstallRootIcon.png</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>This tool allows users to install DoD production PKI, Joint Interoperability Test Command (JITC) test PKI, and External Certification Authority (ECA) CA certificates into their Windows and Firefox certificate stores. The installed certificates are necessary for access to many DoD web sites, including those accessed from personally-owned equipment. Example sites include DISA Enterprise Email and Army Knowledge Online.
+
+### Note
+
+This package auto-detects whether to install the 32-bit or 64-bit version.</description>
+    <releaseNotes />
+    <tags>installroot disa dod army navy marines air force ako dko nko gko</tags>
+  </metadata>
+</package>
