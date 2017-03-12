@@ -16,6 +16,7 @@
 ### Note
 
 This package auto-detects whether to install the 32-bit or 64-bit version.</description>
+	<summary>Installs DoD root and other certificates to allow access to DoD web sites, including on personally-owned computers.</summary>
     <releaseNotes />
     <tags>admin installroot disa dod army navy marines air force ako dko nko gko</tags>
   </metadata>
