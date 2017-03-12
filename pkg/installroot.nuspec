@@ -17,7 +17,8 @@
 
 This package auto-detects whether to install the 32-bit or 64-bit version.</description>
 	<summary>Installs DoD root and other certificates to allow access to DoD web sites, including on personally-owned computers.</summary>
-    <releaseNotes />
+	<docsUrl>http://iase.disa.mil/pki-pke/Documents/unclass_rg_installroot-5_0-niprnet-user-guide.pdf</docsUrl>
+    <releaseNotes>http://iase.disa.mil/pki-pke/Documents/unclass_rg_installroot-5_0-niprnet-user-guide.pdf</releaseNotes>
     <tags>admin installroot disa dod army navy marines air force ako dko nko gko</tags>
   </metadata>
 </package>
