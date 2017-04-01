@@ -5,7 +5,7 @@
     <version>5.0.1</version>
     <title>DoD InstallRoot</title>
     <authors>Defense Information Systems Agency</authors>
-    <owners>Defense Information Systems Agency</owners>
+    <owners>MeadMA</owners>
     <licenseUrl>https://www.law.cornell.edu/uscode/text/17/105</licenseUrl>
     <projectUrl>http://iase.disa.mil/pki-pke/Pages/tools.aspx</projectUrl>
     <iconUrl>https://raw.githubusercontent.com/MeadMA/choco_installroot/35c62c25/InstallRootIcon.png</iconUrl>
