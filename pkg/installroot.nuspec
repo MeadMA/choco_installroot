@@ -11,14 +11,14 @@
     <iconUrl>https://raw.githubusercontent.com/MeadMA/choco_installroot/35c62c25/InstallRootIcon.png</iconUrl>
 	<packageSourceUrl>https://github.com/MeadMA/choco_installroot</packageSourceUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
-    <description>This tool allows users to install DoD production PKI, Joint Interoperability Test Command (JITC) test PKI, and External Certification Authority (ECA) CA certificates into their Windows and Firefox certificate stores. The installed certificates are necessary for access to many DoD web sites, including those accessed from personally-owned equipment. Example sites include DISA Enterprise Email and Army Knowledge Online.
+    <description>This tool allows users to install United States Department of Defense certificates into their Windows, Firefox, and Java certificate stores. The installed certificates are necessary for access to many U.S. DoD web sites, including those accessed from personally-owned equipment. Example sites include DISA Enterprise Email and Army Knowledge Online.
 
 ### Note
 
 This package auto-detects whether to install the 32-bit or 64-bit version.</description>
-	<summary>Installs DoD root and other certificates to allow access to DoD web sites, including on personally-owned computers.</summary>
+	<summary>Installs United States Department of Defense certificates to allow access to DoD web sites, including on personally-owned computers.</summary>
 	<docsUrl>http://iase.disa.mil/pki-pke/Documents/unclass_rg_installroot-5_0-niprnet-user-guide.pdf</docsUrl>
     <releaseNotes>http://iase.disa.mil/pki-pke/Documents/unclass_rg_installroot-5_0-niprnet-user-guide.pdf</releaseNotes>
-    <tags>admin installroot disa dod army navy marines air force ako dko nko gko</tags>
+    <tags>admin installroot disa dod army navy marines air force ako dko nko gko defense</tags>
   </metadata>
 </package>
