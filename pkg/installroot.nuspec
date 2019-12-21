@@ -2,12 +2,12 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
   <metadata>
     <id>installroot</id>
-    <version>5.0.1</version>
+    <version>5.5</version>
     <title>DoD InstallRoot</title>
     <authors>Defense Information Systems Agency</authors>
     <owners>MeadMA</owners>
     <licenseUrl>https://www.law.cornell.edu/uscode/text/17/105</licenseUrl>
-    <projectUrl>http://iase.disa.mil/pki-pke/Pages/tools.aspx</projectUrl>
+    <projectUrl>https://public.cyber.mil/pki-pke/pkipke-document-library/?_dl_facet_pkipke_type=tools</projectUrl>
     <iconUrl>https://raw.githubusercontent.com/MeadMA/choco_installroot/35c62c25/InstallRootIcon.png</iconUrl>
 	<packageSourceUrl>https://github.com/MeadMA/choco_installroot</packageSourceUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
@@ -17,8 +17,8 @@
 
 This package auto-detects whether to install the 32-bit or 64-bit version.</description>
 	<summary>Installs United States Department of Defense certificates to allow access to DoD web sites, including on personally-owned computers.</summary>
-	<docsUrl>http://iase.disa.mil/pki-pke/Documents/unclass_rg_installroot-5_0-niprnet-user-guide.pdf</docsUrl>
-    <releaseNotes>http://iase.disa.mil/pki-pke/Documents/unclass_rg_installroot-5_0-niprnet-user-guide.pdf</releaseNotes>
+	<docsUrl>https://dl.dod.cyber.mil/wp-content/uploads/pki-pke/pdf/unclass-rg-installroot_5_2_niprnet_user_guide.pdf</docsUrl>
+    <releaseNotes>https://dl.dod.cyber.mil/wp-content/uploads/pki-pke/pdf/unclass-rg-installroot_5_2_niprnet_user_guide.pdf</releaseNotes>
     <tags>admin installroot disa dod army navy marines air force ako dko nko gko defense</tags>
   </metadata>
 </package>
