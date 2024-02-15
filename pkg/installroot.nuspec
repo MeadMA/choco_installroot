@@ -8,8 +8,8 @@
     <owners>MeadMA</owners>
     <licenseUrl>https://www.law.cornell.edu/uscode/text/17/105</licenseUrl>
     <projectUrl>https://public.cyber.mil/pki-pke/pkipke-document-library/</projectUrl>
-    <iconUrl>https://raw.githubusercontent.com/MeadMA/choco_installroot/35c62c25/InstallRootIcon.png</iconUrl>
-	<packageSourceUrl>https://github.com/MeadMA/choco_installroot</packageSourceUrl>
+    <iconUrl>https://cdn.jsdelivr.net/gh/MeadMA/choco_installroot@35c62c2500c272f68e21199f1d0fb90cae3471b4/InstallRootIcon.png</iconUrl>
+    <packageSourceUrl>https://github.com/MeadMA/choco_installroot</packageSourceUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>This tool allows users to install United States Department of Defense certificates into their Windows, Firefox, and Java certificate stores. The installed certificates are necessary for access to many U.S. DoD web sites, including those accessed from personally-owned equipment. Example sites include DISA Enterprise Email and Army Knowledge Online.
 
