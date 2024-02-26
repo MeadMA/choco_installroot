@@ -33,7 +33,7 @@ if ($key.Count -eq 1) {
 elseif ($key.Count -gt 1) {
   Write-Warning "$($key.Count) matches found!"
   Write-Warning "To prevent accidental data loss, no programs will be uninstalled."
-  Write-Warning "This will most likely cause a 1603/1638 failure when installing InkScape."
+  Write-Warning "This will most likely cause a 1603/1638 failure when installing InstallRoot."
   Write-Warning "Please uninstall InstallRoot before installing this package."
 }
 
