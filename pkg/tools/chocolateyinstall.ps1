@@ -9,7 +9,7 @@ $packageArgs = @{
   checksum64             = '82719AEBCC5372643649F1E4BCE0242F0C4A37321703B793E116AD1993F57AE2'
   checksumType           = 'sha256'
   checksumType64         = 'sha256'
-  silentArgs             = '/passive /norestart'
+  silentArgs             = '/qb /norestart'
   validExitCodes         = @(0,3010)
   softwareName           = 'InstallRoot'
 }
